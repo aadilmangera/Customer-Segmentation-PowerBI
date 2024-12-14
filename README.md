@@ -17,3 +17,4 @@ This project demonstrates customer segmentation using RFM analysis on an E-Comme
 2. Open it in Power BI Desktop.
 
 ## Preview
+[View the Live Dashboard](https://app.powerbi.com/groups/me/reports/ee78ae12-9b83-4705-9ff0-bd5ef68248f2/5ee74d2d32b0a06a87cd?experience=power-bi)
