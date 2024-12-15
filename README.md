@@ -11,8 +11,6 @@ This project demonstrates customer segmentation using RFM analysis on an E-Comme
 4. Interactive Dashboard in Power BI.
 
 ## Key Insights
-
-## How to Open
 1. **Customer Segmentation**:
    - **Champions**: 2% of customers, contributing 31% of total revenue. They are frequent shoppers with very high spending.
    - **Loyal Customers**: 6% of customers, driving 29% of revenue. They are also frequent shoppers but at moderate spending levels.
@@ -28,6 +26,10 @@ This project demonstrates customer segmentation using RFM analysis on an E-Comme
 
 4. **RFM Distribution**:
    - Majority of customers score high in Monetary and Frequency but moderate in Recency, suggesting opportunities to employ engagement strategies.
+
+## How to Open
+1. Download the `.pbix` file.
+2. Open it in Power BI Desktop.
 
 ## Preview
 [View the Live Dashboard](https://app.powerbi.com/groups/me/reports/ee78ae12-9b83-4705-9ff0-bd5ef68248f2/5ee74d2d32b0a06a87cd?experience=power-bi)
